@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="news_categories">Select News Category</string>
+
+    <string name="news_type_politics">Politics</string>
+    <string name="news_type_technology">Technology</string>
+    <string name="news_type_film">Film</string>
+    <string name="news_type_sport">Sport</string>
+    <string name="news_type_environment">Environment</string>
+
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="internet_connected">Internet Connected Successfully</string>
+    <string name="no_news">No News Found</string>
+</resources>
