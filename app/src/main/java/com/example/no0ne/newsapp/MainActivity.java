@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         uriBuilder.appendQueryParameter("&", "&");
         uriBuilder.appendQueryParameter("api-key", "test");
 
-        Toast.makeText(this, uriBuilder.toString(), Toast.LENGTH_LONG).show();
+//        Toast.makeText(this, uriBuilder.toString(), Toast.LENGTH_LONG).show();
 
         return new NewsLoader(this, uriBuilder.toString());
     }
